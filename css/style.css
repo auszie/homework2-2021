@@ -25,6 +25,10 @@ img{
     height: auto;
    
 }
+div{
+    padding: 25px;
+    min-height: 150px;
+}
 #red{
     text-align: right;
     background-color: #ff0000;
@@ -41,7 +45,7 @@ img{
 }
 #yellow h2 {
     color: #000000;
-    text-shadow: #c7e2c7;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 #yellow p{
     color: #000000;
